@@ -10,7 +10,7 @@
 - 💼 Previous professional experience includes: design of indoor and outdoor wireless turn-key b2b2c solutions. 
 - 🌱 I’m currently advancing my career in business and applied technologies. 
 - 💞️ I’m open to collaborate on educational projects.
-- 📫 How to reach me on [LinkedIn: victoria-l-ly](https://www.linkedin.com/in/victoria-l-ly/)
+- 📫 You can reach me on [LinkedIn: victoria-l-ly](https://www.linkedin.com/in/victoria-l-ly/)
 
 <!---
 victoria-ly/victoria-ly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
